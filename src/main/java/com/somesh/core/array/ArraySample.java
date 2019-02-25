@@ -1,3 +1,4 @@
+package com.somesh.core.array;
 import java.util.Scanner;
 
 /**
